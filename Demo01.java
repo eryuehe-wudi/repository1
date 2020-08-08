@@ -3,3 +3,5 @@ public class Demo01{
 		System.out.println("I love China_1,I love itcast,I love heima");
 	}
 }
+
+this is a bad file
